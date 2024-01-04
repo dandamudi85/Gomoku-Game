@@ -7,5 +7,3 @@ For example, X wins as below.
 The Java program also records the winning history (how many X wins and how many O wins). The winning history is saved into a file. Whenever the game starts, the history will be loaded. There is a Reset button to reset the history (X wins = 0 and O wins = 0). There is also a Quit button to allow the users to quit the game. GUI example looks like:
 
 ![image](https://user-images.githubusercontent.com/22154838/180505753-3bb343a8-4535-4d95-9170-26d54d422b60.png)
-
-Worked on this as part of Chandu's request to work on his Assignment, HOMEWORK 3
